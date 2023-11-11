@@ -4,11 +4,12 @@
 This is a file used to calculate  predictions and forecast future events based on the provided dataset.
 <h2> Task carried out </h2>
 1. Forecasting using the below approaches.
+<li>
 -- Naive Approach
 -- Moving Average
 -- Exponential Smoothing
 -- Simple Linear Regression
--- Forecast linear regression
+-- Forecast linear regression</li>
 
   
 
